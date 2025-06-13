@@ -1,15 +1,36 @@
-<h1 align="center">Hi 👋, I'm Jürgen</h1>
-<h3 align="center">An experienced Cloud Engineer focused on Microsoft Azure</h3>
+## Hi there! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jbreitenbaumer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbreitenbaumer" height="30" width="40" /></a>
-<a rel="me" href="https://mastodon.stahlstadt.cloud/@crimson">Mastodon</a>
-</p>
+I'm Jürgen, a Senior Enginerr & Product Owner specializing in Microsoft Azure and Cloud Governance. I'm passionate about solving business challenges with the latest technologies and creating value driven products!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juergenbr&show_icons=true&locale=en" alt="juergenbr" /></p>
+Based in Linz, Austria, I work at **Dynatrace** focusing on offering access to Azure, AWS and GCP as products to internal stakeholders. My interests include intelligent automations, platform engineering and innovation in technology. Outside of work, I enjoy gardening and baking.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juergenbr&" alt="juergenbr" /></p>
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,git,fastapi,githubactions,linux,terraform,vscode,ai,jenkins,bitbucket,java,py,kubernetes,obsidian,postman,powershell,gcp,aws&perline=8
+)](https://skillicons.dev)
+## Top Projects
+
+- [**obsidian-tolino-notes-import**](https://github.com/juergenbr/obsidian-tolino-notes-import): Obsidian plugin to import notes from a Tolino E-Reader. ⭐️ 10 stars, 1 fork.
+
+## GitHub Stats
+
+- Public Repositories: **27**
+- Followers: **9**
+- Following: **10**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juergenbr&show_icons=true&count_private=true&theme=radical)
+
+## Recent Activity
+
+- Updated README.md in [**wordpress-image-alttext-generator**](https://github.com/juergenbr/wordpress-image-alttext-generator) - May 31, 2025
+- Merged branch 'main' in [**deezer2EchoMini**](https://github.com/juergenbr/deezer2EchoMini) - May 25, 2025
+- Pushed updates for dependencies in [**deezer2EchoMini**](https://github.com/juergenbr/deezer2EchoMini) - May 25, 2025
+
+## Latest Blog Posts
+
+[Check out my blog on Mastodon!](https://mastodon.stahlstadt.cloud/@crimson)
+
+## Connect with Me
+
+https://www.linkedin.com/in/jbreitenbaumer/
