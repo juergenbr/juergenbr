@@ -14,22 +14,10 @@ Based in Linz, Austria, I work at **Dynatrace** focusing on offering access to A
 
 - [**obsidian-tolino-notes-import**](https://github.com/juergenbr/obsidian-tolino-notes-import): Obsidian plugin to import notes from a Tolino E-Reader. ⭐️ 10 stars, 1 fork.
 
-## GitHub Stats
-
-- Public Repositories: **27**
-- Followers: **9**
-- Following: **10**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juergenbr&show_icons=true&count_private=true&theme=radical)
-
-## Recent Activity
-
-- Updated README.md in [**wordpress-image-alttext-generator**](https://github.com/juergenbr/wordpress-image-alttext-generator) - May 31, 2025
-- Merged branch 'main' in [**deezer2EchoMini**](https://github.com/juergenbr/deezer2EchoMini) - May 25, 2025
-- Pushed updates for dependencies in [**deezer2EchoMini**](https://github.com/juergenbr/deezer2EchoMini) - May 25, 2025
 
 ## Latest Blog Posts
 
-[Check out my blog on Mastodon!](https://mastodon.stahlstadt.cloud/@crimson)
+[Check out my blog on Mastodon!](https://blog.breitenbaumer.com)
 
 ## Connect with Me
 
