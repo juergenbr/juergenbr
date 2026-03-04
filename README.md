@@ -16,8 +16,7 @@ Based in Linz, Austria, I work at **Dynatrace** focusing on offering access to A
 
 
 ## Latest Blog Posts
-
-[Check out my blog:](https://blog.breitenbaumer.com)
+https://blog.breitenbaumer.com
 
 ## Connect with Me
 
